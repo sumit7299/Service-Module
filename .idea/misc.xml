@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/drawable/btn.xml" value="0.114" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/drawable/btndelete.xml" value="0.114" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/drawable/edittextbox.xml" value="0.114" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1155" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.114" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/drawable/ic_icon_colorcode_purple.xml" value="0.114" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/activity_categorylist.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/activity_service_category.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/addcategorybottomsheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/addservicebottomsheet.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/category_item.xml" value="0.22" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/categorydetailsbottomsheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/categorylist_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/editservicebottomsheet.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/fragment_categorylist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/fragment_service_list.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/progress_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/service_item.xml" value="0.3408239700374532" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ServiceModule/app/src/main/res/layout/updatecategorybottomsheet.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
